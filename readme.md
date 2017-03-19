@@ -3,6 +3,9 @@ An example on creating split screen / multiple cameras with Phaser through Rende
 
 
 # Running
+## Live view
+You can view this example right now in your browser [here](https://mikauschekzen.github.io/phaser-cameras-example/)
+
 ## Electron
 If you have Electron installed globally, you can run 'electron .' in the root directory
 of this example to give it a try.
