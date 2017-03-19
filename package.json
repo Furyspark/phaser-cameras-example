@@ -1,0 +1,8 @@
+{
+  "name": "phaser-game",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  }
+}
